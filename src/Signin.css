@@ -1,0 +1,50 @@
+.SignInToChat{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color:rgb(255, 255, 255);
+}
+
+.AuthProvider_img{
+    width: 30px;
+    height: 30px;
+    padding: 15px 55px 0px 0px;
+    border-radius: 0%;
+    border: rgb(255, 255, 255);
+}
+
+.welcome_tag{
+    color: rgb(76, 158, 9);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+}
+
+.signin_tag{
+    font-family: sans-serif;
+    padding-left: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.SignInGate{
+    width: 280px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    padding: 35px 0px 0px 15px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px 10px #888888;
+}
+
+.middle_img{ 
+    width: 180px;
+    height: 150px;
+    border-radius: 0%;
+    border: rgb(255, 255, 255);
+    padding-left: 45px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
