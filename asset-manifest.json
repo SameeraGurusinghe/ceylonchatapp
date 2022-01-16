@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ceylonchatapp/static/css/main.9be60dd5.css",
+    "main.js": "/ceylonchatapp/static/js/main.8bec9131.js",
+    "index.html": "/ceylonchatapp/index.html",
+    "main.9be60dd5.css.map": "/ceylonchatapp/static/css/main.9be60dd5.css.map",
+    "main.8bec9131.js.map": "/ceylonchatapp/static/js/main.8bec9131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be60dd5.css",
+    "static/js/main.8bec9131.js"
+  ]
+}
