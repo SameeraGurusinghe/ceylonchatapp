@@ -12,7 +12,7 @@ function SignIn() {
     return (
         <div style={{backgroundImage: "url(/image/welcome.png)"}} className="SignInToChat" >
             <div className="SignInGate">
-                <p className='welcome_tag'>Welcome<br></br>Hello Chat App</p>
+                <p className='welcome_tag'>Welcome<br></br>Ceylon Chat App</p>
             <img className={"middle_img"} src="/image/middle_img.png" alt="" />
             <Button onClick={signInWithGoogle}>
                 <p className='signin_tag'>sign in with</p>
